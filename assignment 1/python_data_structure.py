@@ -5,7 +5,7 @@ print(thisistuple)
 
 print("\n--- Program 2 Access third element in tuple  ---")
 
-print(thisistuple[3])
+print(thisistuple[2])
 
 print("\n--- Program 3 Unpack the tuple into variables  ---")
 
