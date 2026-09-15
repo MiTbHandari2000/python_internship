@@ -1,3 +1,5 @@
+print("\n--- Create Shop class with methods to add and list products ---")
+
 class Shop:
 
     def __init__(self):
